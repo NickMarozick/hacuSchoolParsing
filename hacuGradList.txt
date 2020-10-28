@@ -1,0 +1,254 @@
+ARIZONA (AZ)
+Arizona State University-Downtown Phoenix; Phoenix 4 Pub 2,882 499 17.3% 32.0%
+Arizona State University-West; Glendale 4 Pub 398 74 18.6% 35.6%
+University of Arizona; Tucson 4 Pub 9,944 1,414 14.2% 26.3%
+University of Arizona-South; Sierra Vista 4 Pub 35 12 34.3% 48.6%
+AZ Total 4 13,259 1,999 15.1%
+CALIFORNIA (CA)
+Antioch University-Santa Barbara; Santa Barbara 4 Priv 257 68 26.5% 25.0%
+Azusa Pacific University; Azusa 4 Priv 4,438 1,226 27.6% 32.8%
+Brandman University; Irvine 4 Priv 4,490 2,225 49.6% 53.1%
+California Baptist University; Riverside 4 Priv 2,631 953 36.2% 36.0%
+California Lutheran University; Thousand Oaks 4 Priv 1,324 374 28.2% 33.5%
+California State Polytechnic University-Pomona; Pomona 4 Pub 1,664 565 34.0% 45.6%
+California State University-Bakersfield; Bakersfield 4 Pub 1,448 675 46.6% 56.6%
+California State University-Channel Islands; Camarillo 4 Pub 368 107 29.1% 51.7%
+California State University-Chico; Chico 4 Pub 1,095 221 20.2% 34.6%
+California State University-Dominguez Hills; Carson 4 Pub 2,833 1,108 39.1% 65.5%
+California State University-East Bay; Hayward 4 Pub 2,792 451 16.2% 36.4%
+California State University-Fresno; Fresno 4 Pub 3,012 1,179 39.1% 53.5%
+California State University-Fullerton; Fullerton 4 Pub 5,420 1,442 26.6% 43.9%
+California State University-Long Beach; Long Beach 4 Pub 5,776 2,117 36.7% 42.9%
+California State University-Los Angeles; Los Angeles 4 Pub 3,813 1,825 47.9% 67.9%
+California State University-Monterey Bay; Seaside 4 Pub 831 276 33.2% 47.5%
+California State University-Northridge; Northridge 4 Pub 5,161 1,544 29.9% 50.2%
+California State University-Sacramento; Sacramento 4 Pub 3,089 624 20.2% 32.9%
+California State University-San Bernardino; San Bernardino 4 Pub 2,271 1,027 45.2% 65.5%
+California State University-San Marcos; San Marcos 4 Pub 1,049 282 26.9% 46.3%
+California State University-Stanislaus; Turlock 4 Pub 1,284 521 40.6% 54.9%
+Charles R Drew University of Medicine and Science; Los Angeles 4 Priv 427 95 22.2% 31.5%
+Fresno Pacific University; Fresno 4 Priv 1,386 539 38.9% 50.8%
+Holy Names University; Oakland 4 Priv 328 70 21.3% 43.2%
+Hope International University; Fullerton 4 Priv 510 82 16.1% 31.0%
+Humboldt State University; Arcata 4 Pub 653 136 20.8% 35.5%
+Humphreys University-Stockton and Modesto; Campuses Stockton 4 Priv 146 40 27.4% 35.4%
+John Paul the Great Catholic University; Escondido 4 Priv 22 3 13.6% 26.2%
+La Sierra University; Riverside 4 Priv 514 155 30.2% 47.8%
+Life Pacific College; San Dimas 4 Priv 89 12 13.5% 38.6%
+Loma Linda University; Loma Linda 4 Priv 3,256 605 18.6% 32.9%
+Los Angeles Pacific University; San Dimas 4 Priv 436 179 41.1% 43.3%
+Marymount California University; Rancho Palos Verdes 4 Priv 26 10 38.5% 39.9%
+Middlebury Institute of International Studies at Monterey; Monterey 4 Priv 665 62 9.3% 25.0%
+Mills College; Oakland 4 Priv 489 88 18.0% 29.6%
+Mount Saint Mary's University; Los Angeles 4 Priv 609 305 50.1% 61.1%
+National University; La Jolla 4 Priv 9,195 2,624 28.5% 26.5%
+Notre Dame de Namur University; Belmont 4 Priv 621 131 21.1% 46.8%
+Pacific Oaks College; Pasadena 4 Priv 635 266 41.9% 57.4%
+Pacific Union College; Angwin 4 Priv 4 - 0.0% 26.3%
+Saint Mary's College of California; Moraga 4 Priv 1,086 178 16.4% 27.6%
+San Diego Christian College; Santee 4 Priv 75 17 22.7% 31.1%
+San Diego State University; San Diego 4 Pub 4,717 1,300 27.6% 30.7%
+San Francisco State University; San Francisco 4 Pub 3,247 614 18.9% 34.3%
+San Jose State University; San Jose 4 Pub 8,073 1,228 15.2% 28.6%
+Sonoma State University; Rohnert Park 4 Pub 777 132 17.0% 33.6%
+Southern California University of Health Sciences; Whittier 4 Priv 557 86 15.4% 27.2%
+University of California-Irvine; Irvine 4 Pub 6,296 712 11.3% 26.1%
+University of California-Merced; Merced 4 Pub 663 118 17.8% 54.4%
+University of California-Riverside; Riverside 4 Pub 3,341 431 12.9% 41.1%
+University of California-Santa Barbara; Santa Barbara 4 Pub 2,906 259 8.9% 26.2%
+University of California-Santa Cruz; Santa Cruz 4 Pub 1,908 219 11.5% 27.6%
+University of La Verne; La Verne 4 Priv 2,915 1,124 38.6% 53.5%
+University of Redlands; Redlands 4 Priv 1,584 619 39.1% 31.9%
+University of the West; Rosemead 4 Priv 151 9 6.0% 41.5%
+Vanguard University of Southern California; Costa Mesa 4 Priv 321 101 31.5% 43.1%
+Whittier College; Whittier 4 Priv 120 59 49.2% 50.9%
+Woodbury University; Burbank 4 Priv 114 15 13.2% 35.3%
+CA Total 58 113,908 31,433 27.6%
+COLORADO (CO)
+Adams State University; Alamosa 4 Pub 1,113 155 13.9% 37.5%
+Colorado State University-Pueblo; Pueblo 4 Pub 2,351 154 6.6% 33.9%
+Metropolitan State University of Denver; Denver 4 Pub 755 120 15.9% 29.0%
+CO Total 3 4,219 429 10.2%
+DISTRICT OF COLUMBIA (DC)
+Trinity Washington University; Washington 4 Priv 392 31 7.9% 31.0%
+DC Total 1 392 31 7.9%
+FLORIDA (FL)
+AdventHealth University; Orlando 4 Priv 364 84 23.1% 33.8%
+Atlantic Institute of Oriental Medicine; Fort Lauderdale 4 Priv 99 30 30.3% 37.1%
+Barry University; Miami 4 Priv 3,703 944 25.5% 34.3%
+Carlos Albizu University-Miami; Miami 4 Priv 609 475 78.0% 80.9%
+Florida Atlantic University; Boca Raton 4 Pub 5,396 1,050 19.5% 26.7%
+Florida International University; Miami 4 Pub 9,124 4,347 47.6% 66.2%
+Hodges University; Naples 4 Priv 198 47 23.7% 40.5%
+Johnson & Wales University-North Miami; North Miami 4 Priv 46 12 26.1% 25.6%
+Keiser University-Ft Lauderdale; Fort Lauderdale 4 Priv 1,618 483 29.9% 34.1%
+Nova Southeastern University; Fort Lauderdale 4 Priv 15,531 4,422 28.5% 31.0%
+Polytechnic University of Puerto Rico-Miami; Miami 4 Priv 89 89 100.0% 97.7%
+Polytechnic University of Puerto Rico-Orlando; Orlando 4 Priv 49 49 100.0% 98.0%
+St. Thomas University; Miami Gardens 4 Priv 1,535 619 40.3% 49.3%
+Trinity International University-Florida; Miami 4 Priv 79 29 36.7% 45.7%
+University of Central Florida; Orlando 4 Pub 9,654 1,649 17.1% 27.1%
+FL Total 15 48,094 14,329 29.8%
+
+ILLINOIS (IL)
+Aurora University; Aurora 4 Priv 1,985 260 13.1% 32.3%
+Concordia University-Chicago; River Forest 4 Priv 4,494 378 8.4% 31.7%
+Dominican University; River Forest 4 Priv 884 201 22.7% 56.1%
+National Louis University; Chicago 4 Priv 2,941 422 14.3% 44.3%
+North Park University; Chicago 4 Priv 924 111 12.0% 30.2%
+Northeastern Illinois University; Chicago 4 Pub 1,713 378 22.1% 37.3%
+Robert Morris University Illinois; Chicago 4 Priv 235 58 24.7% 32.4%
+Rush University; Chicago 4 Priv 2,587 241 9.3% 27.7%
+Saint Xavier University; Chicago 4 Priv 712 82 11.5% 39.5%
+University of Illinois at Chicago; Chicago 4 Pub 10,900 1,168 10.7% 33.6%
+IL Total 10 27,375 3,299 12.1%
+INDIANA (IN)
+Calumet College of Saint Joseph; Whiting 4 Priv 189 34 18.0% 29.1%
+IN Total 1 189 34 18.0%
+MASSACHUSETTS (MA)
+Cambridge College; Boston 4 Priv 1,504 521 34.6% 34.0%
+MA Total 1 1,504 521 34.6%
+NEW JERSEY (NJ)
+Bloomfield College; Bloomfield 4 Priv 23 5 21.7% 31.1%
+Caldwell University; Caldwell 4 Priv 538 62 11.5% 27.5%
+College of Saint Elizabeth; Morristown 4 Priv 386 57 14.8% 26.6%
+Fairleigh Dickinson University-Metropolitan Campus; Teaneck 4 Priv 2,011 264 13.1% 36.5%
+Felician University; Lodi 4 Priv 380 74 19.5% 31.0%
+Kean University; Union 4 Pub 2,232 474 21.2% 30.4%
+Montclair State University; Montclair 4 Pub 4,127 668 16.2% 29.1%
+New Jersey City University; Jersey City 4 Pub 1,754 435 24.8% 40.9%
+Pillar College; Newark 4 Priv 79 21 26.6% 47.8%
+Rutgers University-Newark; Newark 4 Pub 4,309 497 11.5% 28.1%
+Saint Peter's University; Jersey City 4 Priv 811 149 18.4% 46.0%
+William Paterson University of New Jersey; Wayne 4 Pub 1,463 300 20.5% 32.1%
+NJ Total 12 18,113 3,006 16.6%
+NEW MEXICO (NM)
+Eastern New Mexico University-Main Campus; Portales 4 Pub 1,305 404 31.0% 39.1%
+New Mexico Highlands University; Las Vegas 4 Pub 1,169 552 47.2% 58.9%
+New Mexico Institute of Mining and Technology; Socorro 4 Pub 483 59 12.2% 31.9%
+New Mexico State University-Main Campus; Las Cruces 4 Pub 2,602 955 36.7% 61.0%
+University of New Mexico-Main Campus; Albuquerque 4 Pub 5,698 1,629 28.6% 48.0%
+University of the Southwest Hobbs 4 Priv 535 113 21.1% 28.2%
+Western New Mexico University; Silver City 4 Pub 1,003 304 30.3% 47.0%
+NM Total 7 12,795 4,016 31.4%
+NEVADA (NV)
+University of Nevada-Las Vegas; Las Vegas 4 Pub 5,175 890 17.2% 29.9%
+NV Total 1 5,175 890 17.2%
+NEW YORK (NY)
+Boricua College; New York 4 Priv 92 70 76.1% 76.8%
+College of Mount Saint Vincent; Bronx 4 Priv 225 53 23.6% 43.8%
+College of Staten Island CUNY; Staten Island 4 Pub 1,036 123 11.9% 27.1%
+CUNY Bernard M Baruch College; New York 4 Pub 3,005 427 14.2% 25.0%
+CUNY City College; New York 4 Pub 2,857 773 27.1% 38.1%
+CUNY Graduate School and University Center; New York 4 Pub 5,754 861 15.0% 32.1%
+CUNY Hunter College; New York 4 Pub 5,990 1,351 22.6% 31.1%
+CUNY John Jay College of Criminal Justice; New York 4 Pub 2,075 618 29.8% 52.5%
+CUNY Lehman College; Bronx 4 Pub 2,148 948 44.1% 58.9%
+CUNY Queens College; Queens 4 Pub 3,126 691 22.1% 28.8%
+CUNY York College; Jamaica 4 Pub 198 24 12.1% 26.6%
+Dominican College of Blauvelt; Orangeburg 4 Priv 506 52 10.3% 33.4%
+Manhattanville College; Purchase 4 Priv 904 88 9.7% 26.7%
+Mercy College; Dobbs Ferry 4 Priv 2,420 636 26.3% 40.9%
+Metropolitan College of New York; New York 4 Priv 329 66 20.1% 31.0%
+Nyack College; Nyack 4 Priv 1,012 285 28.2% 29.7%
+SUNY College at Old Westbury; Old Westbury 4 Pub 303 55 18.2% 26.6%
+The College of New Rochelle; New Rochelle 4 Priv 548 122 22.3% 26.6%
+Vaughn College of Aeronautics and Technology; Flushing 4 Priv 7 2 28.6% 33.7%
+NY Total 19 32,535 7,245 22.3%
+OHIO (OH)
+Union Institute & University; Cincinnati 4 Priv 268 26 9.7% 26.5%
+OH Total 1 268 26 9.7%
+OKLAHOMA (OK)
+Mid-America Christian University; Oklahoma City 4 Priv 476 202 42.4% 46.4%
+OK Total 1 476 202
+OREGON (OR)
+Warner Pacific University; Portland 4 Priv 4 - 0.0% 35.7%
+OR Total 1 4 - 0.0%
+PUERTO RICO (PR)
+American University of Puerto Rico; Bayamon 4 Priv 24 24 100.0% 100.0%
+American University of Puerto Rico; Manati 4 Priv 21 21 100.0% 100.0%
+Atlantic University College; Guaynabo 4 Priv 102 102 100.0% 100.0%
+Caribbean University-Bayamon; Bayamon 4 Priv 256 256 100.0% 100.0%
+Caribbean University-Carolina; Carolina 4 Priv 34 34 100.0% 100.0%
+Caribbean University-Ponc;e Ponce 4 Priv 225 225 100.0% 100.0%
+Caribbean University-Vega Baja; Vega Baja 4 Priv 11 11 100.0% 100.0%
+Carlos Albizu University-San Juan; San Juan 4 Priv 1,279 1,236 96.6% 98.3%
+Conservatory of Music of Puerto Rico; San Juan 4 Pub 25 21 84.0% 95.9%
+Dewey University-Hato Rey; Hato Rey 4 Priv 117 117 100.0% 100.0%
+Dewey University-Juana DÌaz; Juana Diaz 4 Priv 1 1 100.0% 100.0%
+EDP University of Puerto Rico Inc-San Juan; San Juan 4 Priv 134 134 100.0% 100.0%
+EDP University of Puerto Rico Inc-San Sebastian; San Sebastian 4 Priv 36 36 100.0% 100.0%
+Inter American University of Puerto Rico-Aguadilla; Aguadilla 4 Priv 236 236 100.0% 99.8%
+Inter American University of Puerto Rico-Arecibo; Arecibo 4 Priv 360 349 96.9% 99.4%
+Inter American University of Puerto Rico-Barranquitas; Barranquitas 4 Priv 119 118 99.2% 99.9%
+Inter American University of Puerto Rico-Bayamon; Bayamon 4 Priv 105 102 97.1% 98.3%
+Inter American University of Puerto Rico-Fajardo; Fajardo 4 Priv 130 130 100.0% 99.7%
+Inter American University of Puerto Rico-Guayama; Guayama 4 Priv 121 118 97.5% 99.8%
+Inter American University of Puerto Rico-Metro; San Juan 4 Priv 2,285 2,269 99.3% 98.1%
+Inter American University of Puerto Rico-Ponce; Mercedita 4 Priv 406 395 97.3% 99.7%
+Inter American University of Puerto Rico-San German; San German 4 Priv 663 658 99.2% 99.4%
+Pontifical Catholic University of Puerto Rico-Arecibo; Arecibo 4 Priv 412 398 96.6% 99.2%
+Pontifical Catholic University of Puerto Rico-Mayaguez; Mayaguez 4 Priv 113 108 95.6% 99.4%
+Pontifical Catholic University of Puerto Rico-Ponce; Ponce 4 Priv 1,845 1,809 98.0% 99.2%
+San Juan Bautista School of Medicine; Caguas 4 Priv 272 258 94.9% 100.0%
+Universidad Adventista de las Antillas; Mayaguez 4 Priv 87 86 98.9% 95.8%
+Universidad Ana G. Mendez-Carolina Campus; Carolina 4 Priv 1,536 1,536 100.0% 100.0%
+Universidad Ana G. Mendez-Cupey Campus; San Juan 4 Priv 2,265 2,265 100.0% 100.0%
+Universidad Ana G. Mendez-Gurabo Campus; Gurabo 4 Priv 2,965 2,965 100.0% 100.0%
+Universidad Central de Bayamon; Bayamun 4 Priv 219 219 100.0% 99.3%
+Universidad del Sagrado; Corazon Santurce 4 Priv 230 230 100.0% 100.0%
+Universidad Pentecostal Mizpa; Rio Piedras 4 Priv 9 9 100.0% 100.0%
+Universidad Politecnica de Puerto; Rico Hato Rey 4 Priv 717 716 99.9% 99.8%
+Universidad Teologica del Caribe; Trujillo Alto 4 Priv 111 109 98.2% 100.0%
+University of Puerto Rico-Mayaguez; Mayaguez 4 Pub 903 650 72.0% 93.8%
+University of Puerto Rico-Medical Sciences; San Juan 4 Pub 1,907 1,895 99.4% 100.0%
+University of Puerto Rico-Rio Piedras; San Juan 4 Pub 3,275 1,949 59.5% 83.4%
+PR Total 38 23,556 21,795 92.5%
+TEXAS (TX)
+Angelo State University; San Angelo 4 Pub 1,715 402 23.4% 36.2%
+Concordia University Texas; Austin 4 Priv 822 253 30.8% 33.8%
+Hallmark University; San Antonio 4 Priv 5 4 80.0% 44.2%
+Houston Baptist University; Houston 4 Priv 1,111 206 18.5% 37.3%
+Huston-Tillotson University; Austin 4 Priv -- -- -- 27.0%
+McMurry University; Abilene 4 Priv 4 2 50.0% 26.6%
+Our Lady of the Lake University; San Antonio 4 Priv 1,730 802 46.4% 76.7%
+Saint Edward's University; Austin 4 Priv 512 147 28.7% 44.2%
+Schreiner University; Kerrville 4 Priv 99 28 28.3% 40.8%
+Southwestern Adventist University; Keene 4 Priv 19 7 36.8% 49.0%
+St. Mary's University; San Antonio 4 Priv 1,275 571 44.8% 67.1%
+Sul Ross State University; Alpine 4 Pub 602 318 52.8% 62.8%
+Texas A & M International University; Laredo 4 Pub 892 786 88.1% 94.4%
+Texas A & M University-Corpus Christi; Corpus Christi 4 Pub 2,153 744 34.6% 50.5%
+Texas A & M University-Kingsville; Kingsville 4 Pub 1,565 550 35.1% 72.7%
+Texas A&M University-San Antonio; San Antonio 4 Pub 854 475 55.6% 73.6%
+Texas Lutheran University; Seguin 4 Priv 32 7 21.9% 37.3%
+Texas State University; San Marcos 4 Pub 4,457 1,172 26.3% 38.3%
+Texas Tech University; Lubbock 4 Pub 6,252 922 14.7% 29.6%
+Texas Tech University Health Sciences Center-El Paso; El Paso 4 Pub 466 158 33.9% 72.1%
+Texas Wesleyan University; Fort Worth 4 Priv 780 121 15.5% 32.5%
+Texas Woman's University; Denton 4 Pub 5,130 912 17.8% 31.1%
+The University of Texas at Arlington; Arlington 4 Pub 13,427 2,182 16.3% 29.0%
+The University of Texas at El Paso; El Paso 4 Pub 3,687 2,284 61.9% 82.5%
+The University of Texas at San Antonio; San Antonio 4 Pub 4,276 1,773 41.5% 56.1%
+The University of Texas Health Science Center at Houston; Houston 4 Pub 4,618 734 15.9% 30.3%
+The University of Texas Health Science Center at San Antonio; San Antonio 4 Pub 2,518 697 27.7% 49.5%
+The University of Texas MD Anderson Cancer Center; Houston 4 Pub 20 2 10.0% 33.4%
+The University of Texas of the Permian Basin; Odessa 4 Pub 1,090 381 35.0% 52.7%
+The University of Texas Rio Grande Valley; Edinburg 4 Pub 3,966 2,909 73.3% 90.5%
+University of Houston; Houston 4 Pub 7,976 1,158 14.5% 34.2%
+University of Houston-Clear Lake; Houston 4 Pub 2,749 602 21.9% 39.4%
+University of Houston-Downtown; Houston 4 Pub 1,585 440 27.8% 50.6%
+University of Houston-Victoria; Victoria 4 Pub 1,135 271 23.9% 43.5%
+University of North Texas; Denton 4 Pub 6,866 935 13.6% 25.6%
+University of North Texas at Dallas; Dallas 4 Pub 808 202 25.0% 57.1%
+University of St Thomas; Houston 4 Priv 1,245 402 32.3% 46.6%
+University of the Incarnate Word; San Antonio 4 Priv 2,705 1,037 38.3% 56.5%
+Wayland Baptist University; Plainview 4 Priv 1,148 292 25.4% 32.8%
+West Texas A & M University; Canyon 4 Pub 2,653 430 16.2% 29.7%
+TX Total 40 92,947 25,318 27.2%
+WASHINGTON (WA)
+Heritage University; Toppenish 4 Priv 203 59 29.1% 68.5%
+WA Total 1 203 59 29.1%
+WISCONSIN (WI)
+Alverno College; Milwaukee 4 Priv 632 64 10.1% 31.1%
+WI Total 1 632 64 10.1%
